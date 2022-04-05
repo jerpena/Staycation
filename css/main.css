@@ -88,12 +88,14 @@ footer {
   width: 200px;
   height: 260px;
   padding: 20px;
+  display: flex;
+  flex-direction: column;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
 }
 
 .weathericon {
-  width: 150px;
-  height: 150px;
+  width: 175px;
+  height: 175px;
 }
 
 .place {
@@ -184,7 +186,7 @@ footer {
 
 @media (max-width: 860px) {
   main {
-    background-image: url('https://content.codecademy.com/courses/intermediate-javascript-requests/wanderlust/background_photo_moble.jpg');
+    background-image: url('../img/background.jpg');
   }
 
   h1 {
