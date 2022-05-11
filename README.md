@@ -2,7 +2,7 @@
 
 This is an app that will let you check the weather and the top 3 places in the area that you are traveling to.
 
-## Technology
+## Languages and Technology
 
 - HTML5
 - CSS3
